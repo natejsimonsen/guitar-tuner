@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1A1A2E</color>
+    <color name="green">#6BCB77</color>
+    <color name="yellow">#FFD93D</color>
+    <color name="red">#FF6B6B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="bar_bg">#2D2D4E</color>
+</resources>
